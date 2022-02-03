@@ -1,0 +1,6 @@
+^hippietrophy\.Rproj$
+^\.Rproj\.user$
+^hippietrophy\.Rcheck$
+^hippietrophy.*\.tar\.gz$
+^hippietrophy.*\.tgz$
+^LICENSE\.md$

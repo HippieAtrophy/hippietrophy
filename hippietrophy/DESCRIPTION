@@ -1,0 +1,12 @@
+Package: hippietrophy
+Title: This is a test run package
+Version: 0.0.0.9000
+Authors@R: 
+    person("Laura", "Goeschel", , "laura.goeschel@charite.de", role = c("aut", "cre"))
+Description: What the package does (one paragraph).
+License: MIT + file LICENSE
+ByteCompile: true
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
